@@ -114,7 +114,7 @@ Cream / Light Beige – Calm and trust
 
 Typography
 
-Clean, readable sans-serif fonts
+Clean, readable Monslrel fonts
 
 Modern button styles and rounded edges
 
@@ -199,6 +199,8 @@ Suggest features
 Submit pull requests
 
 Please ensure your changes follow Clean Code and Web Accessibility standards.
+
+Project documentation: https://amealprojectdocument.tiiny.site/
 
 📩 Contact
 
