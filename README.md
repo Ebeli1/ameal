@@ -162,7 +162,7 @@ Ameal/
 
 Simply clone the repository and open the pages in any browser.
 
-git clone 
+git clone https://github.com/Ebeli1/ameal
 
 Open:
 
