@@ -162,9 +162,7 @@ Ameal/
 
 Simply clone the repository and open the pages in any browser.
 
-git clone https://github.com/your-username/ameal.com.git
-cd ameal.com
-
+git clone 
 
 Open:
 
@@ -207,8 +205,7 @@ Please ensure your changes follow Clean Code and Web Accessibility standards.
 For partnership, volunteering, or donations:
 
 📧 Email: support@ameal.com
-
-🌐 Website: https://ameal.com
+🌐 Website: https://ebeli1.github.io/ameal/index.html 
 
 ❤️ Acknowledgments
 
