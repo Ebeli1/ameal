@@ -200,10 +200,6 @@ Submit pull requests
 
 Please ensure your changes follow Clean Code and Web Accessibility standards.
 
-Project documentation:
-
-file:///C:/Users/CIMTHOG/Documents/Ameal_Project_Documentation.pdf
-
 📩 Contact
 
 For partnership, volunteering, or donations:
